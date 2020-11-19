@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.3\COPYFILEUPPER\bin\Debug\CopyFileUpper.exe.config
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.3\COPYFILEUPPER\bin\Debug\CopyFileUpper.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.3\COPYFILEUPPER\bin\Debug\CopyFileUpper.pdb
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.3\COPYFILEUPPER\obj\Debug\CopyFileUpper.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.3\COPYFILEUPPER\obj\Debug\CopyFileUpper.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.3\COPYFILEUPPER\obj\Debug\CopyFileUpper.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.3\COPYFILEUPPER\obj\Debug\CopyFileUpper.pdb
