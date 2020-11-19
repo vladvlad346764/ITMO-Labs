@@ -3,3 +3,10 @@ E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\
 E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.csprojResolveAssemblyReference.cache
 E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.exe
 E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.pdb
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 6\Lab 6.1\CREATEACCOUNT\bin\Debug\CreateAccount.exe.config
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 6\Lab 6.1\CREATEACCOUNT\bin\Debug\CreateAccount.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 6\Lab 6.1\CREATEACCOUNT\bin\Debug\CreateAccount.pdb
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 6\Lab 6.1\CREATEACCOUNT\obj\Debug\CreateAccount.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 6\Lab 6.1\CREATEACCOUNT\obj\Debug\CreateAccount.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 6\Lab 6.1\CREATEACCOUNT\obj\Debug\CreateAccount.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 6\Lab 6.1\CREATEACCOUNT\obj\Debug\CreateAccount.pdb

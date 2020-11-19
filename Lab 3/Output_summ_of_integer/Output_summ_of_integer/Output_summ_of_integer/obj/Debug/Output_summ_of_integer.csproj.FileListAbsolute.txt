@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\Output_summ_of_integer\Output_summ_of_integer\Output_summ_of_integer\bin\Debug\Output_summ_of_integer.exe.config
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\Output_summ_of_integer\Output_summ_of_integer\Output_summ_of_integer\bin\Debug\Output_summ_of_integer.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\Output_summ_of_integer\Output_summ_of_integer\Output_summ_of_integer\bin\Debug\Output_summ_of_integer.pdb
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\Output_summ_of_integer\Output_summ_of_integer\Output_summ_of_integer\obj\Debug\Output_summ_of_integer.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\Output_summ_of_integer\Output_summ_of_integer\Output_summ_of_integer\obj\Debug\Output_summ_of_integer.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\Output_summ_of_integer\Output_summ_of_integer\Output_summ_of_integer\obj\Debug\Output_summ_of_integer.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\Output_summ_of_integer\Output_summ_of_integer\Output_summ_of_integer\obj\Debug\Output_summ_of_integer.pdb

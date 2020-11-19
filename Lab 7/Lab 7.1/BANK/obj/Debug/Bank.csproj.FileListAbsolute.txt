@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.1\BANK\bin\Debug\MoreMethods.exe.config
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.1\BANK\bin\Debug\MoreMethods.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.1\BANK\bin\Debug\MoreMethods.pdb
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.1\BANK\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.1\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.1\BANK\obj\Debug\MoreMethods.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.1\BANK\obj\Debug\MoreMethods.pdb

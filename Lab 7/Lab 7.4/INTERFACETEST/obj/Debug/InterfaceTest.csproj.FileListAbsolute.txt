@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.4\INTERFACETEST\bin\Debug\Utils.exe.config
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.4\INTERFACETEST\bin\Debug\Utils.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.4\INTERFACETEST\bin\Debug\Utils.pdb
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.4\INTERFACETEST\obj\Debug\InterfaceTest.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.4\INTERFACETEST\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.4\INTERFACETEST\obj\Debug\Utils.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.4\INTERFACETEST\obj\Debug\Utils.pdb

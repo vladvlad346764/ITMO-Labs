@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\Dollar_Rub\Dollar_Rub\Dollar_Rub\bin\Debug\Dollar_Rub.exe.config
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\Dollar_Rub\Dollar_Rub\Dollar_Rub\bin\Debug\Dollar_Rub.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\Dollar_Rub\Dollar_Rub\Dollar_Rub\bin\Debug\Dollar_Rub.pdb
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\Dollar_Rub\Dollar_Rub\Dollar_Rub\obj\Debug\Dollar_Rub.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\Dollar_Rub\Dollar_Rub\Dollar_Rub\obj\Debug\Dollar_Rub.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\Dollar_Rub\Dollar_Rub\Dollar_Rub\obj\Debug\Dollar_Rub.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\Dollar_Rub\Dollar_Rub\Dollar_Rub\obj\Debug\Dollar_Rub.pdb

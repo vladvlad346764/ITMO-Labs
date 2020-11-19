@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\WhatDay2\WhatDay2\WhatDay2\bin\Debug\WhatDay2.exe.config
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\WhatDay2\WhatDay2\WhatDay2\bin\Debug\WhatDay2.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\WhatDay2\WhatDay2\WhatDay2\bin\Debug\WhatDay2.pdb
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\WhatDay2\WhatDay2\WhatDay2\obj\Debug\WhatDay2.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\WhatDay2\WhatDay2\WhatDay2\obj\Debug\WhatDay2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\WhatDay2\WhatDay2\WhatDay2\obj\Debug\WhatDay2.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 3\WhatDay2\WhatDay2\WhatDay2\obj\Debug\WhatDay2.pdb

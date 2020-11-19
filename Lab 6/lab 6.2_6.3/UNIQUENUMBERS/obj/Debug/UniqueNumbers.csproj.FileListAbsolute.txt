@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 6\lab 6.2_6.3\UNIQUENUMBERS\bin\Debug\UniqueNumbers.exe.config
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 6\lab 6.2_6.3\UNIQUENUMBERS\bin\Debug\UniqueNumbers.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 6\lab 6.2_6.3\UNIQUENUMBERS\bin\Debug\UniqueNumbers.pdb
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 6\lab 6.2_6.3\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 6\lab 6.2_6.3\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 6\lab 6.2_6.3\UNIQUENUMBERS\obj\Debug\UniqueNumbers.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 6\lab 6.2_6.3\UNIQUENUMBERS\obj\Debug\UniqueNumbers.pdb

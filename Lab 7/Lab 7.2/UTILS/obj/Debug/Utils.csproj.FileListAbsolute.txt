@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.2\UTILS\bin\Debug\Utils.exe.config
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.2\UTILS\bin\Debug\Utils.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.2\UTILS\bin\Debug\Utils.pdb
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.2\UTILS\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.2\UTILS\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.2\UTILS\obj\Debug\Utils.exe
+C:\Users\User\OneDrive\Документы\ITMO\ITMO-Labs\Lab 7\Lab 7.2\UTILS\obj\Debug\Utils.pdb
