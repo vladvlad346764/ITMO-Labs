@@ -1,2 +1,2 @@
 # ITMO.Labs
-# CSARP TEHNOLOGIES
+# Sharp Technologies
