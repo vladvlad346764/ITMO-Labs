@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Документы\ITMO\Labs\Lab02\Greetings\Greetings\bin\Debug\Greetings.exe.config
+C:\Users\User\OneDrive\Документы\ITMO\Labs\Lab02\Greetings\Greetings\bin\Debug\Greetings.exe
+C:\Users\User\OneDrive\Документы\ITMO\Labs\Lab02\Greetings\Greetings\bin\Debug\Greetings.pdb
+C:\Users\User\OneDrive\Документы\ITMO\Labs\Lab02\Greetings\Greetings\obj\Debug\Greetings.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\ITMO\Labs\Lab02\Greetings\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\ITMO\Labs\Lab02\Greetings\Greetings\obj\Debug\Greetings.exe
+C:\Users\User\OneDrive\Документы\ITMO\Labs\Lab02\Greetings\Greetings\obj\Debug\Greetings.pdb
